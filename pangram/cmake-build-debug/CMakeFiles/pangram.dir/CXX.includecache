@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeremy/Exercism/cpp/pangram/pangram.cpp
+pangram.h
+/Users/jeremy/Exercism/cpp/pangram/pangram.h
+algorithm
+-
+regex
+-
+
+/Users/jeremy/Exercism/cpp/pangram/pangram.h
+string
+-
+
